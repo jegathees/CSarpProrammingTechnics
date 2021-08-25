@@ -1,0 +1,8 @@
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScoreService\bin\Debug\netstandard2.0\CreditScore.DAL.deps.json
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScoreService\bin\Debug\netstandard2.0\CreditScore.DAL.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScoreService\bin\Debug\netstandard2.0\CreditScore.DAL.pdb
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScoreService\obj\Debug\netstandard2.0\CreditScore.DAL.csprojAssemblyReference.cache
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScoreService\obj\Debug\netstandard2.0\CreditScore.DAL.AssemblyInfoInputs.cache
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScoreService\obj\Debug\netstandard2.0\CreditScore.DAL.AssemblyInfo.cs
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScoreService\obj\Debug\netstandard2.0\CreditScore.DAL.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScoreService\obj\Debug\netstandard2.0\CreditScore.DAL.pdb
