@@ -1,0 +1,7 @@
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.CrossCuttings\bin\Debug\netstandard2.0\CreditScore.CrossCuttings.deps.json
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.CrossCuttings\bin\Debug\netstandard2.0\CreditScore.CrossCuttings.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.CrossCuttings\bin\Debug\netstandard2.0\CreditScore.CrossCuttings.pdb
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.CrossCuttings\obj\Debug\netstandard2.0\CreditScore.CrossCuttings.AssemblyInfoInputs.cache
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.CrossCuttings\obj\Debug\netstandard2.0\CreditScore.CrossCuttings.AssemblyInfo.cs
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.CrossCuttings\obj\Debug\netstandard2.0\CreditScore.CrossCuttings.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.CrossCuttings\obj\Debug\netstandard2.0\CreditScore.CrossCuttings.pdb

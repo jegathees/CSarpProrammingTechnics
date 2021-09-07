@@ -20,3 +20,9 @@ D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Busine
 D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Business\obj\Debug\netstandard2.0\CreditScore.Business.pdb
 D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Business\bin\Debug\netstandard2.0\CreditScore.DAL.dll
 D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Business\bin\Debug\netstandard2.0\CreditScore.DAL.pdb
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Business\bin\Debug\netstandard2.0\CreditScore.CrossCuttings.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Business\bin\Debug\netstandard2.0\CreditScore.DTO.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Business\bin\Debug\netstandard2.0\CreditScore.Entites.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Business\bin\Debug\netstandard2.0\CreditScore.CrossCuttings.pdb
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Business\bin\Debug\netstandard2.0\CreditScore.DTO.pdb
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Business\bin\Debug\netstandard2.0\CreditScore.Entites.pdb

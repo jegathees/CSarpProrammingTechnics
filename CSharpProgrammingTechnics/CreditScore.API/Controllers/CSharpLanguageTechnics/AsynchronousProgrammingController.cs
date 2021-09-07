@@ -22,17 +22,17 @@ namespace CreditScore.API.Controllers
         [HttpGet]
         public async Task<IActionResult> GetCreditScore()
         {
-            var a = 0;
+            var creditScore = 0;
             try
             {
-               a = await Task.FromResult(_creditScoreBusiness.GetCreditScore());
+                creditScore = await Task.FromResult(_creditScoreBusiness.GetCreditScore());
             }
             catch(Exception ex)
             {
                 throw (ex.InnerException);
             }
 
-            return Ok(a);
+            return Ok(creditScore);
             
             
         }

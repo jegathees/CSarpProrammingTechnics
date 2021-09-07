@@ -1,0 +1,4 @@
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\bin\Debug\netstandard2.0\CreditScore.Model.deps.json
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\bin\Debug\netstandard2.0\CreditScore.Model.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\obj\Debug\netstandard2.0\CreditScore.Model.AssemblyInfoInputs.cache
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\obj\Debug\netstandard2.0\CreditScore.Model.AssemblyInfo.cs

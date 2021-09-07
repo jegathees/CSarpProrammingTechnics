@@ -1,0 +1,11 @@
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\bin\Debug\netstandard2.0\CreditScore.DTO.deps.json
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\bin\Debug\netstandard2.0\CreditScore.DTO.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\bin\Debug\netstandard2.0\CreditScore.DTO.pdb
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\bin\Debug\netstandard2.0\CreditScore.Entites.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\bin\Debug\netstandard2.0\CreditScore.Entites.pdb
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\obj\Debug\netstandard2.0\CreditScore.DTO.csprojAssemblyReference.cache
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\obj\Debug\netstandard2.0\CreditScore.DTO.AssemblyInfoInputs.cache
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\obj\Debug\netstandard2.0\CreditScore.DTO.AssemblyInfo.cs
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\obj\Debug\netstandard2.0\CreditScore.DTO.csproj.CopyComplete
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\obj\Debug\netstandard2.0\CreditScore.DTO.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Model\obj\Debug\netstandard2.0\CreditScore.DTO.pdb

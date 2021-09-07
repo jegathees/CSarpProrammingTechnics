@@ -1,0 +1,8 @@
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Entites\bin\Debug\netstandard2.0\CreditScore.Entites.deps.json
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Entites\bin\Debug\netstandard2.0\CreditScore.Entites.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Entites\obj\Debug\netstandard2.0\CreditScore.Entites.AssemblyInfoInputs.cache
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Entites\obj\Debug\netstandard2.0\CreditScore.Entites.AssemblyInfo.cs
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Entites\bin\Debug\netstandard2.0\CreditScore.Entites.pdb
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Entites\obj\Debug\netstandard2.0\CreditScore.Entites.dll
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Entites\obj\Debug\netstandard2.0\CreditScore.Entites.pdb
+D:\Jags\git\CSarpProrammingTechnics\CSharpProgrammingTechnics\CreditScore.Entites\obj\Debug\netstandard2.0\CreditScore.Entites.csprojAssemblyReference.cache
